@@ -173,9 +173,8 @@ export default function App() {
           <img 
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijcPJsjRgMHk0EhvG7F8NVEy-6JfH2G0EJTasoIGxEDBXiYlrz3K73YJ_HhVJFBmb7j-h4loOhaMmr_a54JuyjZgUUTDUi-WAcX212jNb3p8OJZzb_tvg4-vuZeEHQhNtBKRYsBPOcHtKjh9z3fs3MudLiGfV1qGthHKzs5bdQeIillg3u_aVsvs9G/s1600/M2.png" 
             alt="Modern Nail Salon" 
-            className="w-full h-full object-cover opacity-20 grayscale brightness-150"
-            referrerPolicy="no-referrer"
-          />
+            className="w-full h-full object-cover opacity-2 grayscale brightness-100"
+            referrerPolicy="no-referrer" />
           <div className="absolute inset-0 bg-gradient-to-t from-brand-bg via-transparent to-transparent"></div>
         </div>
         
