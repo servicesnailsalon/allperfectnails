@@ -168,13 +168,13 @@ export default function App() {
       </nav>
 
       {/* Hero Section */}
-      <section className="relative h-[650px] mx-6 my-6 rounded-2xl overflow-hidden flex items-center bg-brand-surface border border-brand-gray">
+      <section className="relative h-[650px] mx-6 my-6 rounded-2xl overflow-hidden flex items-center bg-brand-surface border border-brand-none">
         <div className="absolute inset-0">
           <img 
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijcPJsjRgMHk0EhvG7F8NVEy-6JfH2G0EJTasoIGxEDBXiYlrz3K73YJ_HhVJFBmb7j-h4loOhaMmr_a54JuyjZgUUTDUi-WAcX212jNb3p8OJZzb_tvg4-vuZeEHQhNtBKRYsBPOcHtKjh9z3fs3MudLiGfV1qGthHKzs5bdQeIillg3u_aVsvs9G/s1600/M2.png" 
             alt="Modern Nail Salon" 
             className="w-full h-full object-cover opacity-90 grayscale brightness-100"
-            referrerPolicy="no-referrer" />
+            referrerPolicy="no-referrer"/>
           <div className="absolute inset-0 bg-gradient-to-t from-brand-bg via-transparent to-transparent"></div>
         </div>
         
@@ -194,8 +194,7 @@ export default function App() {
             <p className="text-lg md:text-xl mb-10 text-brand-muted font-medium leading-relaxed max-w-xl mx-auto">
               Elevate your style with precision hand-care and artistic designs. We bring perfection to your fingertips.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button 
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">              <button 
                 onClick={() => document.getElementById('booking')?.scrollIntoView()}
                 className="bg-brand-orange text-white px-10 py-4 rounded-md font-bold uppercase tracking-widest transition-all shadow-xl shadow-brand-orange/20 hover:scale-105"
               >
