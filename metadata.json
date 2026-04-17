@@ -1,0 +1,8 @@
+{
+  "name": "All Perfect Nails",
+  "description": "Premium nail care services brand in Concord, CA. Professional, dedicated, and sophisticated.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
