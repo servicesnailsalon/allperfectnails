@@ -171,7 +171,7 @@ export default function App() {
       <section className="relative h-[650px] mx-6 my-6 rounded-2xl overflow-hidden flex items-center bg-brand-surface border border-brand-gray">
         <div className="absolute inset-0">
           <img 
-            src="https://picsum.photos/seed/salon-modern/1920/1080" 
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijcPJsjRgMHk0EhvG7F8NVEy-6JfH2G0EJTasoIGxEDBXiYlrz3K73YJ_HhVJFBmb7j-h4loOhaMmr_a54JuyjZgUUTDUi-WAcX212jNb3p8OJZzb_tvg4-vuZeEHQhNtBKRYsBPOcHtKjh9z3fs3MudLiGfV1qGthHKzs5bdQeIillg3u_aVsvs9G/s1600/M2.png" 
             alt="Modern Nail Salon" 
             className="w-full h-full object-cover opacity-20 grayscale brightness-50"
             referrerPolicy="no-referrer"
